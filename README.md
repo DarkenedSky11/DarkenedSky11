@@ -2,7 +2,7 @@
 - 👀 I’m interested in infosec/pentesting/cyber security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me: twitter is @kicktheprogram
+- 📫 How to reach me: twitter is @cbyxe
 
 <!---
 DarkenedSky11/DarkenedSky11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
